@@ -21,7 +21,6 @@ Il s'agit d'un projet Spring Boot simple pour gérer les informations utilisateu
 ## Construction et Exécution
 Exécutez les commandes suivantes pour construire et exécuter le projet :
 
-Copy code
 # Construire le projet
 mvn clean install
 
@@ -29,6 +28,8 @@ mvn clean install
 java -jar target/userthymeleaf-1.0.0.jar
 
 ## Video Demonstration
+
+https://github.com/MohamedOuhami/UserManagementThymeleaf/assets/60238938/9422f272-5da6-496a-b358-505a9933a2a0
 
 ## Utilisation
 Ouvrez votre navigateur et accédez à http://localhost:8080/signup pour ajouter un nouvel utilisateur.
